@@ -1,0 +1,15 @@
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\AuthApplication.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\config\DadosIniciais.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\controller\AuthController.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\dto\ErroResponse.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\dto\LoginRequest.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\dto\RegistroRequest.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\dto\TokenResponse.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\dto\UsuarioResponse.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\exception\RegraDeNegocioException.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\exception\TratadorDeErros.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\model\Papel.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\model\Usuario.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\repository\UsuarioRepository.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\service\AuthService.java
+C:\Users\onata\OneDrive\Documentos\reservequadras\auth-service\src\main\java\com\volei\auth\service\TokenService.java

@@ -1,0 +1,15 @@
+com\volei\auth\dto\RegistroRequest.class
+com\volei\auth\config\DadosIniciais.class
+com\volei\auth\service\TokenService.class
+com\volei\auth\exception\RegraDeNegocioException.class
+com\volei\auth\service\AuthService.class
+com\volei\auth\exception\TratadorDeErros.class
+com\volei\auth\model\Usuario.class
+com\volei\auth\dto\LoginRequest.class
+com\volei\auth\dto\TokenResponse.class
+com\volei\auth\dto\ErroResponse.class
+com\volei\auth\dto\UsuarioResponse.class
+com\volei\auth\AuthApplication.class
+com\volei\auth\controller\AuthController.class
+com\volei\auth\repository\UsuarioRepository.class
+com\volei\auth\model\Papel.class

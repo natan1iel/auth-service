@@ -1,0 +1,20 @@
+server:
+  port: ${SERVER_PORT:8080}
+
+spring:
+  application:
+    name: auth-service
+
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/authdb}
+    driver-class-name: org.postgresql.Driver
+    username: ${DB_USER:auth_user}
+    password: ${DB_PASSWORD:auth123}
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+
+jwt:
+  secret: ${JWT_SECRET:key-jwt-reserva-quadras-volei-2026-secret}
