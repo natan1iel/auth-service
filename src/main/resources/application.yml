@@ -9,7 +9,7 @@ spring:
     url: ${DB_URL:jdbc:postgresql://localhost:5432/authdb}
     driver-class-name: org.postgresql.Driver
     username: ${DB_USER:auth_user}
-    password: ${DB_PASSWORD:auth123}
+    password: ${DB_PASSWORD}
 
   jpa:
     hibernate:
@@ -17,7 +17,7 @@ spring:
     open-in-view: false
 
 jwt:
-  secret: ${JWT_SECRET:key-jwt-reserva-quadras-volei-2026-secret}
+  secret: ${JWT_SECRET}
 
 management:
   endpoints:
